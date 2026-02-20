@@ -13,4 +13,4 @@ jobs:
           echo "IP: 52.172.103.71"
           echo "Port: 17869"
           echo "Duration: 300"
-          echo "Method: BGMI FLOOD"
+          echo "Method: UDP FLOOD"
