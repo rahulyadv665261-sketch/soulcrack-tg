@@ -12,5 +12,5 @@ jobs:
         run: |
           echo "IP: 20.198.111.131"
           echo "Port: 19960"
-          echo "Duration: 60"
-          echo "Method: BGMI FLOOD"
+          echo "Duration: 300"
+          echo "Method: HTTP FLOOD"
