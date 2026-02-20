@@ -11,6 +11,6 @@ jobs:
       - name: Run
         run: |
           echo "IP: 52.172.103.71"
-          echo "Port: 10006"
-          echo "Duration: 60"
-          echo "Method: VC FLOOD"
+          echo "Port: 10008"
+          echo "Duration: 300"
+          echo "Method: BGMI FLOOD"
